@@ -1,12 +1,8 @@
 # 学习助手  数独
 不扩散，仅作更新服务器使用。<br>
-由于发布版本增大，请到release中下载。<br>
 
 
 
-
-
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.43.0-1.apk
 <br>
 <br>
 <br>
